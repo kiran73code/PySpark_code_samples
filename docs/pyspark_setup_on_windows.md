@@ -24,7 +24,7 @@
 pip install pyspark
 ```
 
-## Trabuleshoot
+## Troubleshoot
 
 1.If you are running scripts/notebooks using virtual envs
 ```py
